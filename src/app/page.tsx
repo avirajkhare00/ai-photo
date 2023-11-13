@@ -34,7 +34,7 @@ export default function Home() {
 							Follow these simple steps to transform your photos and store them securely on the blockchain.
 						</p>
 						<p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-							P.S. We are in closed beta. Please fill following google form, we will mail you your photos back.
+							P.S. We are in closed beta. Please fill following google form, we will get in touch with you soon.
 							<br />
 							<a href="https://forms.gle/2NYpQz28kkjmU93W9" target="_blank">Google Form</a>
 						</p>

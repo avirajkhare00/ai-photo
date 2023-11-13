@@ -24,7 +24,6 @@ export default function Home() {
 				</div>
 			</section>
 
-			<!-- How It Works Section -->
 			<section id="how-it-works" className="text-gray-600 body-font">
 				<div className="container px-5 py-24 mx-auto">
 					<div className="text-center mb-20">
@@ -38,7 +37,6 @@ export default function Home() {
 				</div>
 			</section>
 
-			<!-- Gallery Section -->
 			<section id="gallery" className="text-gray-600 body-font">
 				<div className="container px-5 py-24 mx-auto">
 					<div className="flex flex-wrap -m-4">
@@ -54,7 +52,6 @@ export default function Home() {
 
 			<section id="contact" className="text-gray-600 body-font relative">
 				<div className="container px-5 py-24 mx-auto">
-					<!-- Contact form will go here -->
 				</div>
 			</section>
 

@@ -33,6 +33,9 @@ export default function Home() {
 						<p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
 							Follow these simple steps to transform your photos and store them securely on the blockchain.
 						</p>
+						<p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
+							P.S. We are in closed beta. Please fill following google form, we will mail you your photos back.
+						</p>
 					</div>
 				</div>
 			</section>

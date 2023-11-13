@@ -36,7 +36,7 @@ export default function Home() {
 						<p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
 							P.S. We are in closed beta. Please fill following google form, we will get in touch with you soon.
 							<br />
-							<a href="https://forms.gle/2NYpQz28kkjmU93W9" target="_blank">Google Form</a>
+							<a href="https://forms.gle/2NYpQz28kkjmU93W9" target="_blank"><span className="underline">Google Form</span></a>
 						</p>
 					</div>
 				</div>
